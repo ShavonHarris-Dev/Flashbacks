@@ -1,6 +1,6 @@
 ## FullStack: Flashbacks
 <a href="#" target="_blank">FlashBacks</a>
-<a href="#" target="_blank"><img src="https://media.giphy.com/media/vnTwvpYWlVRk8cVo1Y/giphy.gif" /></a>
+<a href="#" target="_blank"><img src="https://media.giphy.com/media/J53LSkrnXBKdVGYrjo/giphy.gif" /></a>
 
 This site was made using React, Redux and Mongoose.
 
