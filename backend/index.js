@@ -18,7 +18,7 @@ app.use("/posts", postRoutes);
 app.use("/user", userRoutes);
 
 app.get("/", (req, res) => {
-  res.send("Welcome To Instalike Social");
+  res.send("Welcome To Flashback Social");
 });
 
 const PORT = process.env.PORT || 5000;
