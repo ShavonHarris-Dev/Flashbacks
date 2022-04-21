@@ -9,4 +9,4 @@ This site was made using React, Redux and Mongoose.
 My learning was focused on redux to build a beautiful user interface on the frontend.
 
 ## Optimizations
-There is MongoDB connection issue that I am addrssing.
+There is MongoDB connection issue that I am addressing.
